@@ -1,6 +1,6 @@
 # CineVerse
 
-CineVerse is a web application for searching and viewing movies. Film information is obtained from **The Movie Database (TMDB)** and, from each movie's detail page, users can also view the cast, actor profiles, and filmographies.
+CineVerse is a portfolio project developed as a web application for searching and exploring movies. Movie information is retrieved from The Movie Database (TMDB), and from each movie’s detail page, users can also view the cast, actor profiles, and their filmographies.
 
 The application also allows users to create accounts, save favorite movies in the browser, and publish and manage reviews.
 
